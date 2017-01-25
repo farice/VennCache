@@ -46,8 +46,8 @@ Kingfisher will download the image from `url`, send it to both the memory cache 
 
 ### License
 
-VennCache is released under the MIT license. See VennCache_LICENSE for details.
+VennCache is released under the MIT license. See VennCache-LICENSE for details.
 
-Kingfisher is released under the MIT license. See Kingfisher_LICENSE for details.
+Kingfisher is released under the MIT license. See Kingfisher-LICENSE for details.
 
 
