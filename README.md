@@ -1,6 +1,6 @@
 # VennCache
 
-<p align="center">
+<p align="left">
 <img src="https://img.shields.io/badge/made%20with-%3C3-orange.svg">
 </p>
 
@@ -35,10 +35,6 @@ Kingfisher will download the image from `url`, send it to both the memory cache 
 
 - iOS 8.0+ / macOS 10.10+ / tvOS 9.0+ / watchOS 2.0+
 - Swift 3 (Kingfisher 3.x), Swift 2.3 (Kingfisher 2.x)
-
-Main development of Kingfisher will support Swift 3. Only critical bug fixes will be made for Kingfisher 2.x.
-
-[Kingfisher 3.0 Migration Guide](https://github.com/onevcat/Kingfisher/wiki/Kingfisher-3.0-Migration-Guide) - If you are upgrading to Kingfisher 3.x from an earlier version, please read this for more information.
 
 ## What's next?
 
